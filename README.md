@@ -1,6 +1,5 @@
 # REDDIT API
 
-Projeto de entrevista para empresa Winnin.
 Desenvolvido com as bibliotecas ReactJs + Redux + Redux Saga ;)
 
 ## Para poder rodar
